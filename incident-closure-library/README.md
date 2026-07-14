@@ -4,8 +4,8 @@ All content is fully sanitized and contains no tenant‑specific, company‑spec
 
 # Contents:
 
-Default Closing Notes  
+Default Closing Notes:
 Reusable templates for documenting benign, expected, or low‑risk activity across identity, device, and access alerts.
 
-Case Studies  
+Case Studies:
 Real incidents I have triaged and closed, rewritten into safe, anonymized examples that highlight validation steps, correlation logic, and professional documentation style.
