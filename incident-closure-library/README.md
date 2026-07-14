@@ -3,6 +3,7 @@ This section contains structured documentation for how I close identity, device,
 All content is fully sanitized and contains no tenant‑specific, company‑specific, or proprietary identifiers.
 
 Contents:
+
 Default Closing Notes  
 Reusable templates for documenting benign, expected, or low‑risk activity across identity, device, and access alerts.
 
